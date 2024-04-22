@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center"> Software Developer</h3>
+<h2 align="center"> Software Developer</h2>
 
 <img align="right" alt="Coding" width="400" src="https://iili.io/SyZfHv.gif" >
 
