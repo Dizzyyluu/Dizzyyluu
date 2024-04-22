@@ -1,4 +1,4 @@
-### Hi there I'm Adeoluwa Bukola👋
+### Hi there I'm <h1> Adeoluwa Bukola👋 </h1>
 
 <!--
 **Dizzyyluu/Dizzyyluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
